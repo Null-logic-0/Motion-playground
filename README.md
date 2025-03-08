@@ -1,8 +1,10 @@
-# React + Vite
+Motion Playground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Motion Playground is an interactive web platform built with Vite, Next.js, and Tailwind CSS, focused on motion and animation experiments. It provides users with a space to explore and visualize different animation techniques, transitions, and motion-based interactions in real-time. Ideal for developers and designers, the platform allows for easy testing and prototyping of motion concepts.
 
-Currently, two official plugins are available:
+Key Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Vite: A fast build tool for rapid development and optimized performance.
+    Tailwind CSS: Utility-first CSS framework for building modern, responsive interfaces.
+    Motion Experiments: A space for exploring animations, transitions, and interactive motion effects.
+    Fast & Lightweight: Smooth performance for testing complex animation ideas quickly.
